@@ -1,0 +1,4 @@
+// read
+
+// currently
+http://solidity.readthedocs.io/en/develop/contracts.html#libraries
